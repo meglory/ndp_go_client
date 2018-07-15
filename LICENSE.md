@@ -1,1 +1,1 @@
-## license by mgh
+## license by meglory
